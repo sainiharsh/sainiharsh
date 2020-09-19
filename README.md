@@ -19,9 +19,10 @@ Apart from computer field i have knowledge of Electronics- circuits designing, V
 <a href="linkedin.com/in/harsh-saini-b18127170/">
   <img align="left" alt="Harsh Saini Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
-
-
-                                          
+<a href="https://www.facebook.com/HS.harsh7S">
+  <img align="left" alt="Harsh Saini Facebook" width="21px" 
+ src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202107facebookfblogosocialsocialmedia-115710_115591.png" />      
+</a>                                         
                                            
 
 
