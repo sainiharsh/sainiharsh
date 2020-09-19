@@ -4,8 +4,8 @@
 Intersted in working on Machine Learning , programming projects and currently working on project of face emoition dectection. 
 Apart from computer field i have knowledge of Electronics- circuits designing, VHDL programming.
 
-# Programming Languages
-<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="306" height="344" />
+## Programming Languages
+<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="60" height="70" />
 
 
 
