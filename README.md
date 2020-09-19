@@ -1,6 +1,6 @@
 # Hi, I'm Harsh👋:boy:
 
-**I'm a B.Tech[2nd year] Student in J.C BOSE UNIVERSITY OF SCIENCE AND TECHNOLOGY, YMCA FARIDABAD.**
+**I'm a B.Tech[2nd year] student in J.C BOSE UNIVERSITY OF SCIENCE AND TECHNOLOGY, YMCA Faridabad.**
 
 
 
