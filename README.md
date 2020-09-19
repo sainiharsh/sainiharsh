@@ -5,7 +5,7 @@ Intersted in working on Machine Learning , programming projects and currently wo
 Apart from computer field i have knowledge of Electronics- circuits designing, VHDL programming.
 
 ## Programming Languages
-<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="60" height="70" />
+<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="60" height="70" /><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python logo" width="60" height="70" />
 
 
 
