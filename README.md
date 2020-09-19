@@ -1,6 +1,7 @@
 # Harsh Saini:boy:_*@sainiharsh*_
 
-**👋Hey, I'm a B.Tech[2nd year] student in [J.C BOSE UNIVERSITY OF SCIENCE AND TECHNOLOGY, YMCA Faridabad](https://jcboseust.ac.in/)**
+👋Hey, I'm a B.Tech[2nd year] student in [J.C BOSE UNIVERSITY OF SCIENCE AND TECHNOLOGY, YMCA Faridabad](https://jcboseust.ac.in/)**
+
 
 
 
