@@ -1,8 +1,11 @@
 # Harsh Saini:boy:_*@sainiharsh*_
 
-👋Hey, I'm a B.Tech[Electronics Engineering][2nd year] student in [JCBOSEUST](https://jcboseust.ac.in/) and aspiring software developer:computer:.
+👋Hey, I'm a 2nd year B.Tech Electronics Engineering student in [JCBOSEUST](https://jcboseust.ac.in/) and aspiring software developer:computer:.
 Intersted in working on Machine Learning , programming projects and currently working on project of face emoition dectection. 
 Apart from computer field i have knowledge of Electronics- circuits designing, VHDL programming.
+
+# Programming Languages
+[![DevIncept logo image link](extras/logo.gif)](https://devincept.tech/)
 
 
 
