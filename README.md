@@ -4,8 +4,11 @@
 Intersted in working on Machine Learning , programming projects and currently working on project of face emoition dectection. 
 Apart from computer field i have knowledge of Electronics- circuits designing, VHDL programming.
 
-## Programming Languages
-<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="100" height="100" />            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python logo" width="100" height="100" />
+### Programming Languages  :rocket:
+|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width=60> |
+|:---:|:---:|
+
+
 
 
 
