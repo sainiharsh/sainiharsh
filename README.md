@@ -5,7 +5,7 @@ Intersted in working on Machine Learning , programming projects and currently wo
 Apart from computer field i have knowledge of Electronics- circuits designing, VHDL programming.
 
 # Programming Languages
-[![DevIncept logo image link](extras/logo.gif)](https://devincept.tech/)
+<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="306" height="344" />
 
 
 
