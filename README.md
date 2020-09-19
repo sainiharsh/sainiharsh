@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Harsh Saini
+My Name is Harsh Saini
 
 
 <!--
