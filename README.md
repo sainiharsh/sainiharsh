@@ -1,8 +1,9 @@
-# Hi, I'm Harsh👋👦
+# Hi, I'm Harsh👋:boy:
+
+**I'm a B.Tech[2nd year] Student in J.C BOSE UNIVERSITY OF SCIENCE AND TECHNOLOGY, YMCA FARIDABAD.**
 
 
-<img src="https://raw.githubusercontent.com/Harsh/Harsh/master/gh-header-image-cropped.png" alt="banner that says Harsh Saini -  engineer, content creator and community organizer alongside a cartoon illustration of Harsh">
-                                          
+
                                           
                                            
 
