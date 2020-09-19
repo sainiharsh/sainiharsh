@@ -1,5 +1,7 @@
 # Hi, I'm Harsh👋👦
-:
+
+
+<img src="https://raw.githubusercontent.com/Harsh/Harsh/master/gh-header-image-cropped.png" alt="banner that says Harsh Saini -  engineer, content creator and community organizer alongside a cartoon illustration of Harsh">
                                           
                                           
                                            
