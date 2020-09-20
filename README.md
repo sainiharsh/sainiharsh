@@ -1,9 +1,14 @@
 # Harsh Saini:boy:_*@sainiharsh*_
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
+  <br><br>
+  <samp>
 👋Hey, I'm a 2nd year B.Tech Electronics Engineering student in [JCBOSEUST](https://jcboseust.ac.in/) :school: and aspiring software developer:computer:.
 Intersted in working on Machine Learning , programming projects and currently working on project of face emoition dectection. 
 Apart from computer field i have knowledge of Electronics- circuits designing, VHDL programming.
-
+  </samp>
+</p>  
 
 ### Programming Languages  :rocket:
 |<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width=60> |
