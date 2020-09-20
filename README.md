@@ -1,4 +1,4 @@
-# Harsh Saini:boy:_*@sainiharsh*_
+# Harsh Saini:boy:_<a href="https://github.com/sainiharsh">*@sainiharsh*</a>_
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
@@ -9,6 +9,7 @@ Intersted in working on Machine Learning, programming projects and currently wor
 Apart from computer field i have knowledge of Electronics- circuits designing, VHDL programming.
   </samp>
 </p>  
+
 
 ### Programming Languages  :rocket:
 |<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width=60> |
@@ -29,8 +30,6 @@ Apart from computer field i have knowledge of Electronics- circuits designing, V
 src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202107facebookfblogosocialsocialmedia-115710_115591.png" />      
 </a>                                         
                                           
-
-
 
 <!--
 **sainiharsh/sainiharsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
