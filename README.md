@@ -12,8 +12,8 @@ Apart from computer interest i have knowledge of Electronics- circuits designing
 
 
 ### Programming Languages  :rocket:
-|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width=60> |
-|:---:|:---:|:---:|
+|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width=60> | <img src="https://doc.opendtect.org/6.0.0/doc/od_userdoc/content/resources/images/appendix_f/matlab.jpeg" width=60> |
+|:---:|:---:|:---:|:---:|
 
 
 ### Tools :fire:
