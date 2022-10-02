@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   <br><br>
   <samp>
-👋Hey, I'm currently a 3rd year B.Tech Electronics Engineering student at <a href="https://jcboseust.ac.in/"> JCBOSEUST</a> :school:  and aspiring software developer:computer:.
+👋Hey, I'm currently a 4th year B.Tech Electronics Engineering student at <a href="https://jcboseust.ac.in/"> JCBOSEUST</a> :school:  and aspiring software developer:computer:.
 Interested in working on Machine Learning, programming projects and currently working on project of face emoition dectection. 
 Apart from computer interest i have knowledge of Electronics- circuits designing, VHDL programming.
   </samp>
